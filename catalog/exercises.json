@@ -1,5 +1,5 @@
 {
- "version": 1,
+ "version": 2,
  "exercises": [
   {
    "id": "fx-3-4-sit-up",
@@ -828,33 +828,6 @@
    ]
   },
   {
-   "id": "fx-ball-leg-curl",
-   "name": "Curl de pierna con pelota suiza",
-   "aliases": [
-    "Ball Leg Curl"
-   ],
-   "category": "isolation",
-   "muscleGroup": "hamstrings",
-   "muscleGroupLabel": "Femorales",
-   "primaryMuscle": "Isquiotibiales",
-   "secondaryMuscles": [
-    "Gemelos",
-    "Glúteos"
-   ],
-   "equipment": "Pelota suiza",
-   "difficulty": "Principiante",
-   "tips": [
-    "Eleva la cadera del suelo",
-    "Apoya el peso en omóplatos y pies",
-    "Haz una breve pausa"
-   ],
-   "defaultRestSeconds": 90,
-   "images": [
-    "images/Ball_Leg_Curl/0.webp",
-    "images/Ball_Leg_Curl/1.webp"
-   ]
-  },
-  {
    "id": "fx-band-good-morning",
    "name": "Buenos días con banda elástica",
    "aliases": [
@@ -1229,32 +1202,6 @@
    "images": [
     "images/Barbell_Hip_Thrust/0.webp",
     "images/Barbell_Hip_Thrust/1.webp"
-   ]
-  },
-  {
-   "id": "fx-barbell-incline-bench-press-medium-grip",
-   "name": "Press de banca inclinado con barra agarre medio",
-   "aliases": [
-    "Barbell Incline Bench Press - Medium Grip"
-   ],
-   "category": "compound",
-   "muscleGroup": "chest",
-   "muscleGroupLabel": "Pecho",
-   "primaryMuscle": "Pectoral",
-   "secondaryMuscles": [
-    "Deltoides anterior",
-    "Tríceps"
-   ],
-   "equipment": "Barra",
-   "difficulty": "Principiante",
-   "tips": [
-    "Baja hasta la parte alta del pecho",
-    "Aprieta el pecho arriba"
-   ],
-   "defaultRestSeconds": 150,
-   "images": [
-    "images/Barbell_Incline_Bench_Press_-_Medium_Grip/0.webp",
-    "images/Barbell_Incline_Bench_Press_-_Medium_Grip/1.webp"
    ]
   },
   {
@@ -2505,31 +2452,6 @@
    ]
   },
   {
-   "id": "fx-cable-crossover",
-   "name": "Cruce de poleas",
-   "aliases": [
-    "Cable Crossover"
-   ],
-   "category": "isolation",
-   "muscleGroup": "chest",
-   "muscleGroupLabel": "Pecho",
-   "primaryMuscle": "Pectoral",
-   "secondaryMuscles": [
-    "Deltoides anterior"
-   ],
-   "equipment": "Polea",
-   "difficulty": "Principiante",
-   "tips": [
-    "Mantén quietos los brazos y el torso",
-    "Codos ligeramente flexionados"
-   ],
-   "defaultRestSeconds": 90,
-   "images": [
-    "images/Cable_Crossover/0.webp",
-    "images/Cable_Crossover/1.webp"
-   ]
-  },
-  {
    "id": "fx-cable-deadlifts",
    "name": "Peso muerto en polea",
    "aliases": [
@@ -2954,52 +2876,6 @@
    "images": [
     "images/Calf_Press/0.webp",
     "images/Calf_Press/1.webp"
-   ]
-  },
-  {
-   "id": "fx-calf-press-on-the-leg-press-machine",
-   "name": "Prensa de pantorrillas en prensa de piernas",
-   "aliases": [
-    "Calf Press On The Leg Press Machine"
-   ],
-   "category": "isolation",
-   "muscleGroup": "calves",
-   "muscleGroupLabel": "Gemelos",
-   "primaryMuscle": "Gemelos",
-   "secondaryMuscles": [],
-   "equipment": "Máquina",
-   "difficulty": "Principiante",
-   "tips": [
-    "Estira las piernas sin bloquear las rodillas",
-    "Deja los talones fuera de la plataforma"
-   ],
-   "defaultRestSeconds": 90,
-   "images": [
-    "images/Calf_Press_On_The_Leg_Press_Machine/0.webp",
-    "images/Calf_Press_On_The_Leg_Press_Machine/1.webp"
-   ]
-  },
-  {
-   "id": "fx-calf-raises-with-bands",
-   "name": "Elevación de talones con banda elástica",
-   "aliases": [
-    "Calf Raises - With Bands"
-   ],
-   "category": "isolation",
-   "muscleGroup": "calves",
-   "muscleGroupLabel": "Gemelos",
-   "primaryMuscle": "Gemelos",
-   "secondaryMuscles": [],
-   "equipment": "Banda elástica",
-   "difficulty": "Principiante",
-   "tips": [
-    "Mantén las manos junto a los hombros",
-    "Pausa un segundo arriba"
-   ],
-   "defaultRestSeconds": 90,
-   "images": [
-    "images/Calf_Raises_-_With_Bands/0.webp",
-    "images/Calf_Raises_-_With_Bands/1.webp"
    ]
   },
   {
@@ -4099,54 +3975,6 @@
    ]
   },
   {
-   "id": "fx-crunch-legs-on-exercise-ball",
-   "name": "Crunch con piernas sobre pelota suiza",
-   "aliases": [
-    "Crunch - Legs On Exercise Ball"
-   ],
-   "category": "isolation",
-   "muscleGroup": "abs",
-   "muscleGroupLabel": "Abdomen",
-   "primaryMuscle": "Recto abdominal",
-   "secondaryMuscles": [],
-   "equipment": "Peso corporal",
-   "difficulty": "Principiante",
-   "tips": [
-    "Pega la zona lumbar al piso",
-    "Sube solo unos diez centímetros",
-    "No uses impulso"
-   ],
-   "defaultRestSeconds": 90,
-   "images": [
-    "images/Crunch_-_Legs_On_Exercise_Ball/0.webp",
-    "images/Crunch_-_Legs_On_Exercise_Ball/1.webp"
-   ]
-  },
-  {
-   "id": "fx-crunches",
-   "name": "Crunch abdominal",
-   "aliases": [
-    "Crunches"
-   ],
-   "category": "isolation",
-   "muscleGroup": "abs",
-   "muscleGroupLabel": "Abdomen",
-   "primaryMuscle": "Recto abdominal",
-   "secondaryMuscles": [],
-   "equipment": "Peso corporal",
-   "difficulty": "Principiante",
-   "tips": [
-    "No entrelaces los dedos tras la cabeza",
-    "Pega la zona lumbar al piso",
-    "Muévete lento, sin impulso"
-   ],
-   "defaultRestSeconds": 90,
-   "images": [
-    "images/Crunches/0.webp",
-    "images/Crunches/1.webp"
-   ]
-  },
-  {
    "id": "fx-cuban-press",
    "name": "Press cubano con mancuernas",
    "aliases": [
@@ -4335,30 +4163,6 @@
    ]
   },
   {
-   "id": "fx-decline-dumbbell-flyes",
-   "name": "Apertura declinada con mancuernas",
-   "aliases": [
-    "Decline Dumbbell Flyes"
-   ],
-   "category": "compound",
-   "muscleGroup": "chest",
-   "muscleGroupLabel": "Pecho",
-   "primaryMuscle": "Pectoral",
-   "secondaryMuscles": [],
-   "equipment": "Mancuerna",
-   "difficulty": "Principiante",
-   "tips": [
-    "Mantén una ligera flexión de codos",
-    "Mueve solo el hombro",
-    "Usa el mismo arco al subir"
-   ],
-   "defaultRestSeconds": 150,
-   "images": [
-    "images/Decline_Dumbbell_Flyes/0.webp",
-    "images/Decline_Dumbbell_Flyes/1.webp"
-   ]
-  },
-  {
    "id": "fx-decline-ez-bar-triceps-extension",
    "name": "Extensión de tríceps declinada con barra EZ",
    "aliases": [
@@ -4514,32 +4318,6 @@
    "images": [
     "images/Depth_Jump_Leap/0.webp",
     "images/Depth_Jump_Leap/1.webp"
-   ]
-  },
-  {
-   "id": "fx-dip-machine",
-   "name": "Máquina de fondos",
-   "aliases": [
-    "Dip Machine"
-   ],
-   "category": "compound",
-   "muscleGroup": "triceps",
-   "muscleGroupLabel": "Tríceps",
-   "primaryMuscle": "Tríceps",
-   "secondaryMuscles": [
-    "Pectoral",
-    "Deltoides anterior"
-   ],
-   "equipment": "Máquina",
-   "difficulty": "Principiante",
-   "tips": [
-    "Mantén los codos pegados a los costados",
-    "Conserva una ligera flexión abajo"
-   ],
-   "defaultRestSeconds": 150,
-   "images": [
-    "images/Dip_Machine/0.webp",
-    "images/Dip_Machine/1.webp"
    ]
   },
   {
@@ -4871,30 +4649,6 @@
    "images": [
     "images/Dumbbell_Floor_Press/0.webp",
     "images/Dumbbell_Floor_Press/1.webp"
-   ]
-  },
-  {
-   "id": "fx-dumbbell-flyes",
-   "name": "Apertura con mancuernas",
-   "aliases": [
-    "Dumbbell Flyes"
-   ],
-   "category": "isolation",
-   "muscleGroup": "chest",
-   "muscleGroupLabel": "Pecho",
-   "primaryMuscle": "Pectoral",
-   "secondaryMuscles": [],
-   "equipment": "Mancuerna",
-   "difficulty": "Principiante",
-   "tips": [
-    "Mantén una ligera flexión de codos",
-    "Mueve solo el hombro",
-    "Aprieta el pecho al subir"
-   ],
-   "defaultRestSeconds": 90,
-   "images": [
-    "images/Dumbbell_Flyes/0.webp",
-    "images/Dumbbell_Flyes/1.webp"
    ]
   },
   {
@@ -5282,32 +5036,6 @@
    ]
   },
   {
-   "id": "fx-ez-bar-skullcrusher",
-   "name": "Rompecráneos con barra EZ",
-   "aliases": [
-    "EZ-Bar Skullcrusher"
-   ],
-   "category": "isolation",
-   "muscleGroup": "triceps",
-   "muscleGroupLabel": "Tríceps",
-   "primaryMuscle": "Tríceps",
-   "secondaryMuscles": [
-    "Antebrazos"
-   ],
-   "equipment": "Barra EZ",
-   "difficulty": "Principiante",
-   "tips": [
-    "Mantén los codos hacia adentro",
-    "Mantén fijos los brazos",
-    "Pausa sobre la frente"
-   ],
-   "defaultRestSeconds": 90,
-   "images": [
-    "images/EZ-Bar_Skullcrusher/0.webp",
-    "images/EZ-Bar_Skullcrusher/1.webp"
-   ]
-  },
-  {
    "id": "fx-elbow-circles",
    "name": "Círculos de codos",
    "aliases": [
@@ -5432,30 +5160,6 @@
    "images": [
     "images/Elevated_Cable_Rows/0.webp",
     "images/Elevated_Cable_Rows/1.webp"
-   ]
-  },
-  {
-   "id": "fx-exercise-ball-crunch",
-   "name": "Crunch en pelota suiza",
-   "aliases": [
-    "Exercise Ball Crunch"
-   ],
-   "category": "isolation",
-   "muscleGroup": "abs",
-   "muscleGroupLabel": "Abdomen",
-   "primaryMuscle": "Recto abdominal",
-   "secondaryMuscles": [],
-   "equipment": "Pelota suiza",
-   "difficulty": "Principiante",
-   "tips": [
-    "Mantén el cuello quieto",
-    "Cadera fija al subir",
-    "Brazos cruzados sobre el pecho"
-   ],
-   "defaultRestSeconds": 90,
-   "images": [
-    "images/Exercise_Ball_Crunch/0.webp",
-    "images/Exercise_Ball_Crunch/1.webp"
    ]
   },
   {
@@ -6501,33 +6205,6 @@
    ]
   },
   {
-   "id": "fx-hammer-grip-incline-db-bench-press",
-   "name": "Press inclinado con mancuernas agarre martillo",
-   "aliases": [
-    "Hammer Grip Incline DB Bench Press"
-   ],
-   "category": "compound",
-   "muscleGroup": "chest",
-   "muscleGroupLabel": "Pecho",
-   "primaryMuscle": "Pectoral",
-   "secondaryMuscles": [
-    "Deltoides anterior",
-    "Tríceps"
-   ],
-   "equipment": "Mancuerna",
-   "difficulty": "Principiante",
-   "tips": [
-    "Mantén el control de las mancuernas",
-    "Baja despacio a los costados",
-    "Empuja con el pecho"
-   ],
-   "defaultRestSeconds": 150,
-   "images": [
-    "images/Hammer_Grip_Incline_DB_Bench_Press/0.webp",
-    "images/Hammer_Grip_Incline_DB_Bench_Press/1.webp"
-   ]
-  },
-  {
    "id": "fx-hamstring-smr",
    "name": "Rodillo de espuma para isquiotibiales",
    "aliases": [
@@ -6993,33 +6670,6 @@
    ]
   },
   {
-   "id": "fx-hyperextensions-back-extensions",
-   "name": "Hiperextensiones en banco",
-   "aliases": [
-    "Hyperextensions (Back Extensions)"
-   ],
-   "category": "isolation",
-   "muscleGroup": "back",
-   "muscleGroupLabel": "Espalda",
-   "primaryMuscle": "Erectores espinales",
-   "secondaryMuscles": [
-    "Glúteos",
-    "Isquiotibiales"
-   ],
-   "equipment": "Otro",
-   "difficulty": "Principiante",
-   "tips": [
-    "Nunca redondees la espalda",
-    "No arquees más allá de la línea recta",
-    "Evita balancear el torso"
-   ],
-   "defaultRestSeconds": 90,
-   "images": [
-    "images/Hyperextensions_Back_Extensions/0.webp",
-    "images/Hyperextensions_Back_Extensions/1.webp"
-   ]
-  },
-  {
    "id": "fx-hyperextensions-with-no-hyperextension-bench",
    "name": "Hiperextensiones en banco plano",
    "aliases": [
@@ -7245,32 +6895,6 @@
    "images": [
     "images/Incline_Dumbbell_Bench_With_Palms_Facing_In/0.webp",
     "images/Incline_Dumbbell_Bench_With_Palms_Facing_In/1.webp"
-   ]
-  },
-  {
-   "id": "fx-incline-dumbbell-flyes",
-   "name": "Apertura inclinada con mancuernas",
-   "aliases": [
-    "Incline Dumbbell Flyes"
-   ],
-   "category": "compound",
-   "muscleGroup": "chest",
-   "muscleGroupLabel": "Pecho",
-   "primaryMuscle": "Pectoral",
-   "secondaryMuscles": [
-    "Deltoides anterior"
-   ],
-   "equipment": "Mancuerna",
-   "difficulty": "Principiante",
-   "tips": [
-    "Mantén los brazos extendidos",
-    "Mueve solo hombros y muñecas",
-    "Usa un banco de máximo 30 grados"
-   ],
-   "defaultRestSeconds": 150,
-   "images": [
-    "images/Incline_Dumbbell_Flyes/0.webp",
-    "images/Incline_Dumbbell_Flyes/1.webp"
    ]
   },
   {
@@ -8656,34 +8280,6 @@
    ]
   },
   {
-   "id": "fx-landmine-180s",
-   "name": "Giros de 180 con landmine",
-   "aliases": [
-    "Landmine 180's"
-   ],
-   "category": "compound",
-   "muscleGroup": "abs",
-   "muscleGroupLabel": "Abdomen",
-   "primaryMuscle": "Recto abdominal",
-   "secondaryMuscles": [
-    "Glúteos",
-    "Erectores espinales",
-    "Deltoides posterior"
-   ],
-   "equipment": "Barra",
-   "difficulty": "Principiante",
-   "tips": [
-    "Mantén los brazos extendidos",
-    "Rota tronco y cadera",
-    "Usa una postura amplia"
-   ],
-   "defaultRestSeconds": 150,
-   "images": [
-    "images/Landmine_180s/0.webp",
-    "images/Landmine_180s/1.webp"
-   ]
-  },
-  {
    "id": "fx-landmine-linear-jammer",
    "name": "Jammer lineal con landmine",
    "aliases": [
@@ -9057,59 +8653,6 @@
    ]
   },
   {
-   "id": "fx-leverage-high-row",
-   "name": "Remo alto en máquina de palanca",
-   "aliases": [
-    "Leverage High Row"
-   ],
-   "category": "compound",
-   "muscleGroup": "back",
-   "muscleGroupLabel": "Espalda",
-   "primaryMuscle": "Romboides",
-   "secondaryMuscles": [
-    "Dorsal ancho"
-   ],
-   "equipment": "Máquina",
-   "difficulty": "Principiante",
-   "tips": [
-    "Retrae las escápulas al jalar",
-    "Pausa abajo y regresa lento",
-    "No apoyes el peso hasta terminar la serie"
-   ],
-   "defaultRestSeconds": 150,
-   "images": [
-    "images/Leverage_High_Row/0.webp",
-    "images/Leverage_High_Row/1.webp"
-   ]
-  },
-  {
-   "id": "fx-leverage-incline-chest-press",
-   "name": "Press de pecho inclinado en máquina de palanca",
-   "aliases": [
-    "Leverage Incline Chest Press"
-   ],
-   "category": "compound",
-   "muscleGroup": "chest",
-   "muscleGroupLabel": "Pecho",
-   "primaryMuscle": "Pectoral",
-   "secondaryMuscles": [
-    "Deltoides anterior",
-    "Tríceps"
-   ],
-   "equipment": "Máquina",
-   "difficulty": "Principiante",
-   "tips": [
-    "Pecho arriba y escápulas retraídas",
-    "Ajusta el asiento a tu altura",
-    "No apoyes el peso hasta terminar la serie"
-   ],
-   "defaultRestSeconds": 150,
-   "images": [
-    "images/Leverage_Incline_Chest_Press/0.webp",
-    "images/Leverage_Incline_Chest_Press/1.webp"
-   ]
-  },
-  {
    "id": "fx-leverage-iso-row",
    "name": "Remo isolateral en máquina de palanca",
    "aliases": [
@@ -9160,32 +8703,6 @@
    "images": [
     "images/Leverage_Shoulder_Press/0.webp",
     "images/Leverage_Shoulder_Press/1.webp"
-   ]
-  },
-  {
-   "id": "fx-leverage-shrug",
-   "name": "Encogimientos en máquina de palanca",
-   "aliases": [
-    "Leverage Shrug"
-   ],
-   "category": "isolation",
-   "muscleGroup": "back",
-   "muscleGroupLabel": "Espalda",
-   "primaryMuscle": "Trapecio superior",
-   "secondaryMuscles": [
-    "Antebrazos"
-   ],
-   "equipment": "Máquina",
-   "difficulty": "Principiante",
-   "tips": [
-    "Sube los hombros hacia las orejas",
-    "Mantén los brazos rectos",
-    "Sube y baja en línea recta"
-   ],
-   "defaultRestSeconds": 90,
-   "images": [
-    "images/Leverage_Shrug/0.webp",
-    "images/Leverage_Shrug/1.webp"
    ]
   },
   {
@@ -9573,34 +9090,6 @@
    "images": [
     "images/Lying_Cable_Curl/0.webp",
     "images/Lying_Cable_Curl/1.webp"
-   ]
-  },
-  {
-   "id": "fx-lying-cambered-barbell-row",
-   "name": "Remo boca abajo con barra curva",
-   "aliases": [
-    "Lying Cambered Barbell Row"
-   ],
-   "category": "isolation",
-   "muscleGroup": "back",
-   "muscleGroupLabel": "Espalda",
-   "primaryMuscle": "Romboides",
-   "secondaryMuscles": [
-    "Bíceps",
-    "Dorsal ancho",
-    "Trapecio superior"
-   ],
-   "equipment": "Barra",
-   "difficulty": "Principiante",
-   "tips": [
-    "Mantén los codos cerca del cuerpo",
-    "Pausa un segundo arriba",
-    "Baja despacio"
-   ],
-   "defaultRestSeconds": 90,
-   "images": [
-    "images/Lying_Cambered_Barbell_Row/0.webp",
-    "images/Lying_Cambered_Barbell_Row/1.webp"
    ]
   },
   {
@@ -11179,29 +10668,6 @@
    ]
   },
   {
-   "id": "fx-one-arm-dumbbell-preacher-curl",
-   "name": "Curl predicador con mancuerna a una mano",
-   "aliases": [
-    "One Arm Dumbbell Preacher Curl"
-   ],
-   "category": "isolation",
-   "muscleGroup": "biceps",
-   "muscleGroupLabel": "Bíceps",
-   "primaryMuscle": "Bíceps",
-   "secondaryMuscles": [],
-   "equipment": "Mancuerna",
-   "difficulty": "Principiante",
-   "tips": [
-    "Baja hasta extender el brazo",
-    "Aprieta el bíceps un segundo arriba"
-   ],
-   "defaultRestSeconds": 90,
-   "images": [
-    "images/One_Arm_Dumbbell_Preacher_Curl/0.webp",
-    "images/One_Arm_Dumbbell_Preacher_Curl/1.webp"
-   ]
-  },
-  {
    "id": "fx-one-arm-floor-press",
    "name": "Press de suelo con barra a una mano",
    "aliases": [
@@ -11225,33 +10691,6 @@
    "images": [
     "images/One_Arm_Floor_Press/0.webp",
     "images/One_Arm_Floor_Press/1.webp"
-   ]
-  },
-  {
-   "id": "fx-one-arm-lat-pulldown",
-   "name": "Jalón al pecho a una mano",
-   "aliases": [
-    "One Arm Lat Pulldown"
-   ],
-   "category": "compound",
-   "muscleGroup": "back",
-   "muscleGroupLabel": "Espalda",
-   "primaryMuscle": "Dorsal ancho",
-   "secondaryMuscles": [
-    "Bíceps",
-    "Romboides"
-   ],
-   "equipment": "Polea",
-   "difficulty": "Principiante",
-   "tips": [
-    "Pega el codo al costado",
-    "Pausa abajo",
-    "No devuelvas el peso por completo"
-   ],
-   "defaultRestSeconds": 150,
-   "images": [
-    "images/One_Arm_Lat_Pulldown/0.webp",
-    "images/One_Arm_Lat_Pulldown/1.webp"
    ]
   },
   {
@@ -11716,30 +11155,6 @@
    ]
   },
   {
-   "id": "fx-palms-up-dumbbell-wrist-curl-over-a-bench",
-   "name": "Curl de muñeca con mancuernas palmas arriba sobre banco",
-   "aliases": [
-    "Palms-Up Dumbbell Wrist Curl Over A Bench"
-   ],
-   "category": "isolation",
-   "muscleGroup": "forearms",
-   "muscleGroupLabel": "Antebrazo",
-   "primaryMuscle": "Antebrazos",
-   "secondaryMuscles": [],
-   "equipment": "Mancuerna",
-   "difficulty": "Principiante",
-   "tips": [
-    "Mantén los antebrazos quietos",
-    "Mueve solo las muñecas",
-    "Exhala al subir"
-   ],
-   "defaultRestSeconds": 90,
-   "images": [
-    "images/Palms-Up_Dumbbell_Wrist_Curl_Over_A_Bench/0.webp",
-    "images/Palms-Up_Dumbbell_Wrist_Curl_Over_A_Bench/1.webp"
-   ]
-  },
-  {
    "id": "fx-pelvic-tilt-into-bridge",
    "name": "Inclinación pélvica hacia puente",
    "aliases": [
@@ -11932,35 +11347,6 @@
    "images": [
     "images/Platform_Hamstring_Slides/0.webp",
     "images/Platform_Hamstring_Slides/1.webp"
-   ]
-  },
-  {
-   "id": "fx-plie-dumbbell-squat",
-   "name": "Sentadilla plié con mancuerna",
-   "aliases": [
-    "Plie Dumbbell Squat"
-   ],
-   "category": "compound",
-   "muscleGroup": "quads",
-   "muscleGroupLabel": "Cuádriceps",
-   "primaryMuscle": "Cuádriceps",
-   "secondaryMuscles": [
-    "Recto abdominal",
-    "Gemelos",
-    "Glúteos",
-    "Isquiotibiales"
-   ],
-   "equipment": "Mancuerna",
-   "difficulty": "Principiante",
-   "tips": [
-    "Mantén los brazos quietos",
-    "Baja hasta que los muslos queden paralelos",
-    "Empuja con los talones"
-   ],
-   "defaultRestSeconds": 150,
-   "images": [
-    "images/Plie_Dumbbell_Squat/0.webp",
-    "images/Plie_Dumbbell_Squat/1.webp"
    ]
   },
   {
@@ -12402,33 +11788,6 @@
    ]
   },
   {
-   "id": "fx-pullups",
-   "name": "Dominadas",
-   "aliases": [
-    "Pullups"
-   ],
-   "category": "compound",
-   "muscleGroup": "back",
-   "muscleGroupLabel": "Espalda",
-   "primaryMuscle": "Dorsal ancho",
-   "secondaryMuscles": [
-    "Bíceps",
-    "Romboides"
-   ],
-   "equipment": "Peso corporal",
-   "difficulty": "Principiante",
-   "tips": [
-    "Sube al exhalar",
-    "Pausa un segundo arriba",
-    "Baja lento hasta extender los brazos"
-   ],
-   "defaultRestSeconds": 150,
-   "images": [
-    "images/Pullups/0.webp",
-    "images/Pullups/1.webp"
-   ]
-  },
-  {
    "id": "fx-push-up-wide",
    "name": "Flexión de brazos con agarre ancho",
    "aliases": [
@@ -12454,33 +11813,6 @@
    "images": [
     "images/Push-Up_Wide/0.webp",
     "images/Push-Up_Wide/1.webp"
-   ]
-  },
-  {
-   "id": "fx-push-ups-close-triceps-position",
-   "name": "Flexión de brazos con agarre cerrado",
-   "aliases": [
-    "Push-Ups - Close Triceps Position"
-   ],
-   "category": "compound",
-   "muscleGroup": "triceps",
-   "muscleGroupLabel": "Tríceps",
-   "primaryMuscle": "Tríceps",
-   "secondaryMuscles": [
-    "Pectoral",
-    "Deltoides anterior"
-   ],
-   "equipment": "Peso corporal",
-   "difficulty": "Intermedio",
-   "tips": [
-    "Baja hasta casi tocar el suelo",
-    "Pausa un segundo arriba",
-    "Exhala al subir"
-   ],
-   "defaultRestSeconds": 150,
-   "images": [
-    "images/Push-Ups_-_Close_Triceps_Position/0.webp",
-    "images/Push-Ups_-_Close_Triceps_Position/1.webp"
    ]
   },
   {
@@ -13082,30 +12414,6 @@
    ]
   },
   {
-   "id": "fx-reverse-flyes",
-   "name": "Apertura inversa con mancuernas en banco inclinado",
-   "aliases": [
-    "Reverse Flyes"
-   ],
-   "category": "isolation",
-   "muscleGroup": "shoulders",
-   "muscleGroupLabel": "Deltoides",
-   "primaryMuscle": "Deltoides posterior",
-   "secondaryMuscles": [],
-   "equipment": "Mancuerna",
-   "difficulty": "Principiante",
-   "tips": [
-    "Mantén los codos ligeramente flexionados",
-    "Sube hasta quedar paralelo al suelo",
-    "Baja lento mientras inhalas"
-   ],
-   "defaultRestSeconds": 90,
-   "images": [
-    "images/Reverse_Flyes/0.webp",
-    "images/Reverse_Flyes/1.webp"
-   ]
-  },
-  {
    "id": "fx-reverse-flyes-with-external-rotation",
    "name": "Apertura posterior inclinada con rotación externa",
    "aliases": [
@@ -13177,54 +12485,6 @@
    "images": [
     "images/Reverse_Grip_Triceps_Pushdown/0.webp",
     "images/Reverse_Grip_Triceps_Pushdown/1.webp"
-   ]
-  },
-  {
-   "id": "fx-reverse-hyperextension",
-   "name": "Hiperextensión inversa",
-   "aliases": [
-    "Reverse Hyperextension"
-   ],
-   "category": "isolation",
-   "muscleGroup": "hamstrings",
-   "muscleGroupLabel": "Femorales",
-   "primaryMuscle": "Isquiotibiales",
-   "secondaryMuscles": [
-    "Gemelos",
-    "Glúteos"
-   ],
-   "equipment": "Máquina",
-   "difficulty": "Intermedio",
-   "tips": [
-    "No hiperextiendas la cadera al subir"
-   ],
-   "defaultRestSeconds": 90,
-   "images": [
-    "images/Reverse_Hyperextension/0.webp",
-    "images/Reverse_Hyperextension/1.webp"
-   ]
-  },
-  {
-   "id": "fx-reverse-machine-flyes",
-   "name": "Apertura posterior en máquina",
-   "aliases": [
-    "Reverse Machine Flyes"
-   ],
-   "category": "isolation",
-   "muscleGroup": "shoulders",
-   "muscleGroupLabel": "Deltoides",
-   "primaryMuscle": "Deltoides posterior",
-   "secondaryMuscles": [],
-   "equipment": "Máquina",
-   "difficulty": "Principiante",
-   "tips": [
-    "Mantén los brazos ligeramente flexionados",
-    "Contrae los deltoides posteriores"
-   ],
-   "defaultRestSeconds": 90,
-   "images": [
-    "images/Reverse_Machine_Flyes/0.webp",
-    "images/Reverse_Machine_Flyes/1.webp"
    ]
   },
   {
@@ -14364,51 +13624,6 @@
    ]
   },
   {
-   "id": "fx-seated-palms-down-barbell-wrist-curl",
-   "name": "Curl de muñeca sentado con barra, palmas abajo",
-   "aliases": [
-    "Seated Palms-Down Barbell Wrist Curl"
-   ],
-   "category": "isolation",
-   "muscleGroup": "forearms",
-   "muscleGroupLabel": "Antebrazo",
-   "primaryMuscle": "Antebrazos",
-   "secondaryMuscles": [],
-   "equipment": "Barra",
-   "difficulty": "Principiante",
-   "tips": [
-    "Antebrazos apoyados en los muslos"
-   ],
-   "defaultRestSeconds": 90,
-   "images": [
-    "images/Seated_Palms-Down_Barbell_Wrist_Curl/0.webp",
-    "images/Seated_Palms-Down_Barbell_Wrist_Curl/1.webp"
-   ]
-  },
-  {
-   "id": "fx-seated-side-lateral-raise",
-   "name": "Elevación lateral sentado",
-   "aliases": [
-    "Seated Side Lateral Raise"
-   ],
-   "category": "isolation",
-   "muscleGroup": "shoulders",
-   "muscleGroupLabel": "Deltoides",
-   "primaryMuscle": "Deltoides lateral",
-   "secondaryMuscles": [],
-   "equipment": "Mancuerna",
-   "difficulty": "Principiante",
-   "tips": [
-    "No balancees el torso",
-    "Codos ligeramente flexionados"
-   ],
-   "defaultRestSeconds": 90,
-   "images": [
-    "images/Seated_Side_Lateral_Raise/0.webp",
-    "images/Seated_Side_Lateral_Raise/1.webp"
-   ]
-  },
-  {
    "id": "fx-seated-two-arm-palms-up-low-pulley-wrist-curl",
    "name": "Curl de muñeca sentado en polea baja con dos brazos, palmas arriba",
    "aliases": [
@@ -14553,28 +13768,6 @@
    "images": [
     "images/Shoulder_Raise/0.webp",
     "images/Shoulder_Raise/1.webp"
-   ]
-  },
-  {
-   "id": "fx-shoulder-stretch",
-   "name": "Estiramiento de hombro cruzado",
-   "aliases": [
-    "Shoulder Stretch"
-   ],
-   "category": "isolation",
-   "muscleGroup": "shoulders",
-   "muscleGroupLabel": "Deltoides",
-   "primaryMuscle": "Deltoides posterior",
-   "secondaryMuscles": [],
-   "equipment": "Sin equipo",
-   "difficulty": "Principiante",
-   "tips": [
-    "Mantén el brazo recto"
-   ],
-   "defaultRestSeconds": 90,
-   "images": [
-    "images/Shoulder_Stretch/0.webp",
-    "images/Shoulder_Stretch/1.webp"
    ]
   },
   {
@@ -14773,32 +13966,6 @@
    "images": [
     "images/Side_To_Side_Chins/0.webp",
     "images/Side_To_Side_Chins/1.webp"
-   ]
-  },
-  {
-   "id": "fx-side-wrist-pull",
-   "name": "Estiramiento de hombro con tirón de muñeca",
-   "aliases": [
-    "Side Wrist Pull"
-   ],
-   "category": "isolation",
-   "muscleGroup": "shoulders",
-   "muscleGroupLabel": "Deltoides",
-   "primaryMuscle": "Deltoides posterior",
-   "secondaryMuscles": [
-    "Antebrazos",
-    "Dorsal ancho"
-   ],
-   "equipment": "Sin equipo",
-   "difficulty": "Principiante",
-   "tips": [
-    "No tires fuerte de la articulación del hombro",
-    "Siente el estiramiento en la espalda"
-   ],
-   "defaultRestSeconds": 90,
-   "images": [
-    "images/Side_Wrist_Pull/0.webp",
-    "images/Side_Wrist_Pull/1.webp"
    ]
   },
   {
@@ -15975,29 +15142,6 @@
    "images": [
     "images/Snatch_from_Blocks/0.webp",
     "images/Snatch_from_Blocks/1.webp"
-   ]
-  },
-  {
-   "id": "fx-speed-band-overhead-triceps",
-   "name": "Extensión de tríceps sobre la cabeza con banda de velocidad",
-   "aliases": [
-    "Speed Band Overhead Triceps"
-   ],
-   "category": "isolation",
-   "muscleGroup": "triceps",
-   "muscleGroupLabel": "Tríceps",
-   "primaryMuscle": "Tríceps",
-   "secondaryMuscles": [],
-   "equipment": "Banda elástica",
-   "difficulty": "Principiante",
-   "tips": [
-    "Codos arriba",
-    "Agarre pronado"
-   ],
-   "defaultRestSeconds": 90,
-   "images": [
-    "images/Speed_Band_Overhead_Triceps/0.webp",
-    "images/Speed_Band_Overhead_Triceps/1.webp"
    ]
   },
   {
@@ -18042,83 +17186,6 @@
    ]
   },
   {
-   "id": "fx-the-straddle",
-   "name": "Estiramiento de piernas abiertas sentado",
-   "aliases": [
-    "The Straddle"
-   ],
-   "category": "isolation",
-   "muscleGroup": "hamstrings",
-   "muscleGroupLabel": "Femorales",
-   "primaryMuscle": "Isquiotibiales",
-   "secondaryMuscles": [
-    "Aductores",
-    "Gemelos"
-   ],
-   "equipment": "Sin equipo",
-   "difficulty": "Principiante",
-   "tips": [
-    "Mantén la espalda recta",
-    "Mantén de 10 a 20 segundos"
-   ],
-   "defaultRestSeconds": 90,
-   "images": [
-    "images/The_Straddle/0.webp",
-    "images/The_Straddle/1.webp"
-   ]
-  },
-  {
-   "id": "fx-thigh-abductor",
-   "name": "Máquina de abductores",
-   "aliases": [
-    "Thigh Abductor"
-   ],
-   "category": "isolation",
-   "muscleGroup": "glutes",
-   "muscleGroupLabel": "Glúteos",
-   "primaryMuscle": "Glúteo medio",
-   "secondaryMuscles": [
-    "Glúteos"
-   ],
-   "equipment": "Máquina",
-   "difficulty": "Principiante",
-   "tips": [
-    "Mantén el torso quieto",
-    "Pausa un segundo al contraer"
-   ],
-   "defaultRestSeconds": 90,
-   "images": [
-    "images/Thigh_Abductor/0.webp",
-    "images/Thigh_Abductor/1.webp"
-   ]
-  },
-  {
-   "id": "fx-thigh-adductor",
-   "name": "Máquina de aductores",
-   "aliases": [
-    "Thigh Adductor"
-   ],
-   "category": "isolation",
-   "muscleGroup": "quads",
-   "muscleGroupLabel": "Cuádriceps",
-   "primaryMuscle": "Aductores",
-   "secondaryMuscles": [
-    "Glúteos",
-    "Isquiotibiales"
-   ],
-   "equipment": "Máquina",
-   "difficulty": "Principiante",
-   "tips": [
-    "Mantén el torso quieto",
-    "Pausa un segundo al contraer"
-   ],
-   "defaultRestSeconds": 90,
-   "images": [
-    "images/Thigh_Adductor/0.webp",
-    "images/Thigh_Adductor/1.webp"
-   ]
-  },
-  {
    "id": "fx-tire-flip",
    "name": "Volteo de neumático",
    "aliases": [
@@ -18301,30 +17368,6 @@
    ]
   },
   {
-   "id": "fx-triceps-pushdown",
-   "name": "Extensión de tríceps en polea con barra",
-   "aliases": [
-    "Triceps Pushdown"
-   ],
-   "category": "isolation",
-   "muscleGroup": "triceps",
-   "muscleGroupLabel": "Tríceps",
-   "primaryMuscle": "Tríceps",
-   "secondaryMuscles": [],
-   "equipment": "Polea",
-   "difficulty": "Principiante",
-   "tips": [
-    "Mantén los brazos superiores pegados al cuerpo",
-    "Baja hasta extender los brazos",
-    "Sube lentamente"
-   ],
-   "defaultRestSeconds": 90,
-   "images": [
-    "images/Triceps_Pushdown/0.webp",
-    "images/Triceps_Pushdown/1.webp"
-   ]
-  },
-  {
    "id": "fx-triceps-pushdown-v-bar-attachment",
    "name": "Extensión de tríceps en polea con barra V",
    "aliases": [
@@ -18501,34 +17544,6 @@
    "images": [
     "images/Two-Arm_Kettlebell_Row/0.webp",
     "images/Two-Arm_Kettlebell_Row/1.webp"
-   ]
-  },
-  {
-   "id": "fx-underhand-cable-pulldowns",
-   "name": "Jalón al pecho con agarre supino",
-   "aliases": [
-    "Underhand Cable Pulldowns"
-   ],
-   "category": "compound",
-   "muscleGroup": "back",
-   "muscleGroupLabel": "Espalda",
-   "primaryMuscle": "Dorsal ancho",
-   "secondaryMuscles": [
-    "Bíceps",
-    "Romboides",
-    "Deltoides posterior"
-   ],
-   "equipment": "Polea",
-   "difficulty": "Principiante",
-   "tips": [
-    "Agarra más cerrado que los hombros",
-    "Lleva la barra hasta la parte alta del pecho",
-    "Sube lentamente"
-   ],
-   "defaultRestSeconds": 150,
-   "images": [
-    "images/Underhand_Cable_Pulldowns/0.webp",
-    "images/Underhand_Cable_Pulldowns/1.webp"
    ]
   },
   {
@@ -18795,30 +17810,6 @@
    ]
   },
   {
-   "id": "fx-weighted-ball-side-bend",
-   "name": "Flexión lateral con peso en pelota suiza",
-   "aliases": [
-    "Weighted Ball Side Bend"
-   ],
-   "category": "isolation",
-   "muscleGroup": "abs",
-   "muscleGroupLabel": "Abdomen",
-   "primaryMuscle": "Recto abdominal",
-   "secondaryMuscles": [],
-   "equipment": "Pelota suiza",
-   "difficulty": "Intermedio",
-   "tips": [
-    "Flexiona lateralmente desde la cintura",
-    "Pausa un segundo arriba",
-    "Baja lentamente"
-   ],
-   "defaultRestSeconds": 90,
-   "images": [
-    "images/Weighted_Ball_Side_Bend/0.webp",
-    "images/Weighted_Ball_Side_Bend/1.webp"
-   ]
-  },
-  {
    "id": "fx-weighted-bench-dip",
    "name": "Fondos en banco con peso",
    "aliases": [
@@ -19055,34 +18046,6 @@
    "images": [
     "images/Wide-Grip_Decline_Barbell_Pullover/0.webp",
     "images/Wide-Grip_Decline_Barbell_Pullover/1.webp"
-   ]
-  },
-  {
-   "id": "fx-wide-grip-lat-pulldown",
-   "name": "Jalón al pecho agarre ancho",
-   "aliases": [
-    "Wide-Grip Lat Pulldown"
-   ],
-   "category": "compound",
-   "muscleGroup": "back",
-   "muscleGroupLabel": "Espalda",
-   "primaryMuscle": "Dorsal ancho",
-   "secondaryMuscles": [
-    "Bíceps",
-    "Romboides",
-    "Deltoides posterior"
-   ],
-   "equipment": "Polea",
-   "difficulty": "Principiante",
-   "tips": [
-    "Ajusta la almohadilla a tu altura",
-    "Lleva la barra a la parte alta del pecho",
-    "Aprieta los omóplatos abajo"
-   ],
-   "defaultRestSeconds": 150,
-   "images": [
-    "images/Wide-Grip_Lat_Pulldown/0.webp",
-    "images/Wide-Grip_Lat_Pulldown/1.webp"
    ]
   },
   {
